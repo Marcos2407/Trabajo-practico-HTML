@@ -1,0 +1,88 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+header {
+  background: rgba(16,16,16,0.9);
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  color: #e2dcca;
+}
+
+h1 a{
+   text-decoration: none;
+   color: #e2dcca;
+   font-family: 'Noticia Text', serif;
+}
+
+header a{
+  text-decoration: none;
+  color: #e2dcca;
+}
+header h1{
+  display: inline-block;
+  margin-top: 7px;
+  margin-left: 15px;
+}
+.men {
+  margin-left: 80%;
+  margin-top: -30px;
+  margin-bottom: 15px;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+header i {
+   margin-right: 30px;
+}
+
+.punto{
+  margin-left: 20px;
+  margin-top: 10px
+}
+
+.punto a{
+  text-decoration: none;
+  color: #e2dcca;
+}
+
+.aca {
+  display: none;
+}
+
+footer {
+  position: absolute;
+  margin-top: 100%;
+  width: 100%;
+  background: rgba(16,16,16,0.9);
+}
+
+.todos {
+  display: inline-block;
+  margin-top: 5px;
+  font-family: 'Noticia Text', serif;
+  color: #e2dcca;
+  text-align: center;
+}
+
+.todos h3{
+  margin-bottom: 5px;
+}
+
+#materia {
+  position: absolute;
+  margin-left: 43%;
+}
+
+#alumno {
+  position: absolute; 
+  margin-left: 83%
+}
+
+#institucion {
+  margin-left: 10px;
+}
+
+

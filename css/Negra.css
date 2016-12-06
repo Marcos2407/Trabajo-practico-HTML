@@ -1,0 +1,135 @@
+body {
+  background-image: url('../img/esta.jpg');
+  z-index: 99;
+}
+
+.first {
+  position: absolute;
+  top: 70px;
+  left: 10%;
+  right: 10%;
+  background-color: rgba(16,16,16,0.9);
+  color: #434448;
+}
+
+.titulo {
+  font-family: 'Yellowtail', cursive;
+  left: 40%;
+  font-size: 60px;
+  position: relative;
+}
+
+.negra {
+  padding: 2% 8%;
+}
+
+.negra img{
+  width: 100%;
+  height: 445px;
+  border: 2px solid #434448;
+}
+
+.ori {
+  margin-left: 16%;
+  font-size: 28px;
+}
+
+.origen p{
+  font-size: 19px;
+  text-align: justify;
+  width: 43%;
+  margin-left: 25px;
+}
+
+#prod {
+  display: inline-block;
+  font-size: 28px;
+  position: absolute;
+  margin-top: -317px;
+  margin-left: 787px;
+}
+
+#produc {
+  font-size: 19px;
+  display: inline-block;
+  position: absolute;
+  margin-left: 610px;
+  margin-top: -269px;
+}
+
+.tipos {
+  position: relative;
+  margin-top: 100px;
+  margin-left: 32%;
+  font-size: 30px;
+}
+
+#tip {
+  font-size: 20px;
+  display: inline-block;;
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 20px;
+}
+
+.yo {
+  display: inline-block;
+  width: 30%;
+  margin-left: 2%;
+
+}
+
+.yo img {
+  width: 100%;
+  height: 340px;
+  margin-top: 2%;
+}
+
+.yo h3 {
+  text-align: center;
+}
+
+.yo p{
+  display: none;
+}
+
+.selected {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  background-color: rgba(0,0,0,0.9);
+  padding: 0px;
+  margin-left: 0%;
+}
+
+.pick {
+  width: 25% !important;
+  margin-left: 90px !important;
+  margin-top: 160px !important;
+}
+
+.parrafin {
+  position: fixed !important;
+  margin-top: 200px !important;
+  margin-right: 135px !important;
+  margin-left: 30px !important;
+  font-size: 20px !important;
+  display: inline-block !important;
+  text-align: justify !important;
+  color: #434448 !important;
+}
+
+.titulin {
+  display: inline-block !important;
+  position: fixed !important;
+  margin-top: 100px;
+  margin-left: 40%;
+  font-size: 35px;
+}
+
+footer {
+  margin-top: 110% !important;
+}
